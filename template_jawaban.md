@@ -4,7 +4,7 @@
 - Nama: Danny Firmansyah
 - NIM: 221080200083
 - Kelas: 6B
-- Repo GitHub: [link]
+- Repo GitHub: [[link](https://github.com/furkhannsheo/UAS_PENGAMANAN-SISTEM-KOMPUTER.git)]
 
 ---
 
