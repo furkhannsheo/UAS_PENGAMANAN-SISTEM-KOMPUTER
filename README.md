@@ -1,1 +1,3 @@
-# UAS_PENGAMANAN-SISTEM-KOMPUTER
+# JWT CRUD API UAS Starter
+
+Silakan lanjutkan pengembangan API dan perbaiki bug yang ditemukan.
