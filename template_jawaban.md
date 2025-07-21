@@ -42,8 +42,8 @@ Serangan terjadi karena tidak adanya pembatasan akses berdasarkan identitas peng
 // Endpoint: PUT /api/users/update
 {
   "user_id": 1,   // ID Admin
-  "name": "Hacked Admin",
-  "email": "hacked@admin.com"
+  "name": "admin",
+  "email": "admin@example.com"
 }
 
 **Solusi Implementasi:**  
